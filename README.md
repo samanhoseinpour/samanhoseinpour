@@ -1,6 +1,5 @@
 # Hey There! 👋
-**I'm Saman (he/they)**
-I'm a Fullstack Developer based in Tehran. I'm interested in Software, Development and building Real World Web Applications.
+**I'm Saman (he/they)** - I'm a Fullstack Developer based in Tehran. I'm interested in Software, Development and building Real World Web Applications.
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nodejs,expressjs,nest,mongodb,ts,graphql,postgresql,regex,docker,kubernetes,redis,solidity,mysql,nginx,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
