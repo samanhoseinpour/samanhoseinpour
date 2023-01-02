@@ -3,7 +3,7 @@
 You can check my LinkedIn at https://www.linkedin.com/in/saman-hoseinpour-202280221/ .
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nodejs,expressjs,mongodb,ts,graphql,nest,postgresql,regex,docker,kubernetes,redis,solidity,mysql,nginx,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nodejs,expressjs,nest,mongodb,ts,graphql,postgresql,regex,docker,kubernetes,redis,solidity,mysql,nginx,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
 
 [^ These icons are skills that I have](https://github.com/tandpfun/skill-icons)
 
