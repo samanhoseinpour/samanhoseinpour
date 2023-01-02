@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Saman (he/they)** - I'm a Fullstack Developer based in Tehran. I'm interested in Software, Development and building Real World Applications.
+**I'm Saman (he/they)** - I'm a Fullstack Developer based in Tehran. I'm interested in Software, Development and building Real World Web Applications.
 You can check my LinkedIn at https://www.linkedin.com/in/saman-hoseinpour-202280221/ .
 
 
