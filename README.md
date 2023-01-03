@@ -4,7 +4,6 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nodejs,expressjs,nest,mongodb,ts,graphql,postgresql,regex,docker,kubernetes,redis,solidity,mysql,nginx,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
 
-[^ These icons are skills that I have]
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
