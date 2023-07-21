@@ -2,7 +2,7 @@
 **I'm Saman (he/they)**<br/>- Software Engineer based in Tehran, interested in Software Development and building Real World Web Applications.
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nextjs,vercel,graphql,mongodb,ts,regex,solidity,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,headlessui,nextjs,vercel,graphql,mongodb,ts,regex,solidity,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
