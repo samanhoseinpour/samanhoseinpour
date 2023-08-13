@@ -11,7 +11,7 @@ I am well-versed in Agile methodologies, particularly Scrum.
 With a passion for clean code and automated testing using Jest, I am dedicated to delivering high-quality software solutions.
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nextjs,vercel,graphql,nodejs,expressjs,mongodb,ts,regex,solidity,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nextjs,vercel,graphql,jest,mongodb,ts,regex,solidity,vscode,vite,github,netlify,agile,scrum,mvc)](https://skillicons.dev)<br/>
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
