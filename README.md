@@ -1,5 +1,6 @@
 # Hey There! 👋
-** I am a skilled software engineer proficient in HTML, CSS, and JavaScript, specializing in MVC design patterns and TypeScript.
+
+I am a skilled software engineer proficient in HTML, CSS, and JavaScript, specializing in MVC design patterns and TypeScript.
 
 With expertise in frameworks like React and NextJS, I have a strong grasp of building efficient and scalable web applications.
 
