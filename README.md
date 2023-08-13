@@ -1,5 +1,13 @@
 # Hey There! 👋
-**I'm Saman (he/they)**<br/>- Software Engineer based in Tehran, interested in Software Development and building Real World Web Applications.
+** I am a skilled software engineer proficient in HTML, CSS, and JavaScript, specializing in MVC design patterns and TypeScript.
+
+With expertise in frameworks like React and NextJS, I have a strong grasp of building efficient and scalable web applications.
+
+My experience also extends to GraphQL, MongoDB, and Redux, enabling me to develop robust and data-driven solutions.
+
+I am well-versed in Agile methodologies, particularly Scrum.
+
+With a passion for clean code and automated testing using Jest, I am dedicated to delivering high-quality software solutions.
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nextjs,vercel,graphql,nodejs,expressjs,mongodb,ts,regex,solidity,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
