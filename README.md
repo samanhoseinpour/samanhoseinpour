@@ -1,5 +1,3 @@
-# Hey There! 👋
-
 <h1 align="center">Saman Hoseinpour</h1>
 <h3 align="center">A passionate Software Enginner</h3>
 
