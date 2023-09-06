@@ -1,6 +1,11 @@
 # Hey There! 👋
 
 <h1 align="center">Saman Hoseinpour</h1>
+<h3 align="center">A passionate Software Enginner</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
+" /> </p>
+
 
 I am a highly skilled software engineer with expertise in HTML, CSS, and JavaScript. My specialization lies in implementing MVC design patterns and utilizing TypeScript.
 
