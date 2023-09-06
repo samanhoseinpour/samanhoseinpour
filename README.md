@@ -36,8 +36,4 @@ Driven by a passion for clean code and automated testing using Jest, I am commit
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=white&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=white&count_private=true&hide_border=true)</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samanhoseinpour&show_icons=true&locale=en&layout=compact" alt="samanhoseinpour" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samanhoseinpour&show_icons=true&locale=en" alt="samanhoseinpour" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanhoseinpour&" alt="samanhoseinpour" /></p>
