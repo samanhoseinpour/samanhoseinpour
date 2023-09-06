@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
 I am a highly skilled software engineer with expertise in HTML, CSS, and JavaScript. My specialization lies in implementing MVC design patterns and utilizing TypeScript.
@@ -27,12 +31,6 @@ Driven by a passion for clean code and automated testing using Jest, I am commit
 <a href="https://www.instagram.com/samanhoseinpour.sol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 </p>
 <br/>
-
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=white&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=white&count_private=true&hide_border=true)</a>
