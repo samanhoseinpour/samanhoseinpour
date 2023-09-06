@@ -26,6 +26,7 @@ Driven by a passion for clean code and automated testing using Jest, I am commit
 <a href="https://www.linkedin.com/in/saman-hoseinpour-202280221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samanhoseinpour.sol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 </p>
+<br/>
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
