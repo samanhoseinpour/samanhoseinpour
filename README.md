@@ -1,5 +1,7 @@
 # Hey There! 👋
 
+<h1 align="center">Saman Hoseinpour</h1>
+
 I am a highly skilled software engineer with expertise in HTML, CSS, and JavaScript. My specialization lies in implementing MVC design patterns and utilizing TypeScript.
 
 I possess extensive knowledge of frameworks such as React and NextJS, allowing me to proficiently develop efficient and scalable web applications.
