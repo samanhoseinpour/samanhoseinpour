@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
 
-- 🔭 I’m currently **Self Employed**
+- 🔭 Currently **Self Employed**
 
-- 🌱 I’m currently working on **TypeScript and NextJs**
+- 🌱 Currently focused on **TypeScript and NextJs**
 
-- 💬 Ask me about **React, NextJs, TypeScript**
+- 💬 Feel free to inquire about **React, NextJs, TypeScript**
 
-- 📫 How to reach me **samangithoseinpour@gmail.com**
+- 📫 Contact me at **samangithoseinpour@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
