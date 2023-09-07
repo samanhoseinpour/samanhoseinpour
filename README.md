@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,nextjs,vercel,graphql,jest,mongodb,ts,regex,solidity,vscode,vite,github,netlify)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,materialui,antdesign,nextjs,graphql,restapi,jest,mongodb,ts,solidity,vscode,vite,github,netlify,vercel)](https://skillicons.dev)<br/>
 
 <h3 align="left">Connect with me:</h3>
 
