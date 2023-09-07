@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
 
-I am a highly skilled software engineer with expertise in HTML, CSS, and JavaScript. My specialization lies in implementing MVC design patterns and utilizing TypeScript.
+- 🔭 I’m currently **Self Employed**
 
-I possess extensive knowledge of frameworks such as React and NextJS, allowing me to proficiently develop efficient and scalable web applications.
+- 🌱 I’m currently working on **TypeScript and NextJs**
 
-Furthermore, I have hands-on experience with GraphQL, MongoDB, and Redux, enabling me to create robust and data-driven solutions.
+- 💬 Ask me about **React, NextJs, TypeScript**
 
-I am well-versed in Agile methodologies, particularly Scrum, which allows me to effectively collaborate with teams and deliver projects in a timely manner.
-
-Driven by a passion for clean code and automated testing using Jest, I am committed to delivering software solutions of the highest quality.
+- 📫 How to reach me **samangithoseinpour@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
