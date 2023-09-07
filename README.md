@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
 
-- 🔭 Currently **Self Employed**
+- 🔭 Presently **Self Employed**
 
 - 🌱 Currently focused on **TypeScript and NextJs**
 
