@@ -34,4 +34,4 @@
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanhoseinpour&theme=blueberry" alt="samanhoseinpour" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanhoseinpour&theme=blueberry" alt="samanhoseinpour"/></p>
