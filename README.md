@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,react,ts,nextjs,redux,unix,git,materialui,tailwind,jest,solidity,vscode)
+[![SkillIcons](https://skillicons.dev/icons?i=js,react,ts,nextjs,redux,git,materialui,tailwind,jest,solidity,vscode)
 ](https://skillicons.dev)
 <br/>
 
