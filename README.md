@@ -12,7 +12,7 @@
 
 - 📫 Contact me at **samangithoseinpour@gmail.com**
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,react,ts,nextjs,redux,git,materialui,tailwind,jest,vscode)
 ](https://skillicons.dev)
