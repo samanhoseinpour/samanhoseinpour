@@ -1,4 +1,4 @@
-<a align="center" href="https://www.linkedin.com/in/saman-hoseinpour-202280221/">Saman Hoseinpour</a>
+<a href="https://www.linkedin.com/in/saman-hoseinpour-202280221/"><h1 align="center">Saman Hoseinpour</h1></a>
 <h3 align="center">A passionate Software Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
