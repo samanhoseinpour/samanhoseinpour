@@ -6,7 +6,7 @@
 
 - 🔭 Presently **Self Employed**
 
-- 🌱 Currently focused on **NextJS**
+- 🌱 Currently focused on **Solidity**
 
 - 💬 Feel free to inquire about **React, NextJs, TypeScript**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,react,ts,nextjs,redux,git,materialui,tailwind,vscode,netlify,vercel)
+[![SkillIcons](https://skillicons.dev/icons?i=solidity,metamask,remix,js,react,ts,nextjs,redux,git,materialui,tailwind,vscode,netlify,vercel)
 ](https://skillicons.dev)
 <br/>
 
