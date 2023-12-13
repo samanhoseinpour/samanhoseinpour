@@ -1,12 +1,12 @@
 <h1 align="center">Saman Hoseinpour</h1>
-<h3 align="center">A passionate Software Enginner</h3>
+<h3 align="center">A passionate Blockchain Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
 
 - 🔭 Presently **Self Employed**
 
-- 🌱 Currently focused on **Solidity**
+- 🌱 Currently focused on **Solidity | Blockchain | Web3.0**
 
 - 💬 Feel free to inquire about **React, NextJs, TypeScript**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=solidity,metamask,remix,js,react,ts,nextjs,redux,git,materialui,tailwind,vscode,netlify,vercel)
+[![SkillIcons](https://skillicons.dev/icons?i=solidity,blockchain,web3,js,react,ts,nextjs,redux,git,materialui,tailwind,vscode,netlify,vercel)
 ](https://skillicons.dev)
 <br/>
 
