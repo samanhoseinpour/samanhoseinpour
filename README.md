@@ -6,7 +6,7 @@
 
 - 🔭 Presently **Self Employed**
 
-- 🌱 Currently focused on **Solidity | Blockchain | Web3.0**
+- 🌱 Currently focused on **Blockchain**
 
 - 💬 Feel free to inquire about **React, NextJs, TypeScript**
 
