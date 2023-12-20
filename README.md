@@ -33,7 +33,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 ![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)       
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=light&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=light&count_private=true&hide_border=true)</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanhoseinpour&theme=blueberry" alt="samanhoseinpour"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanhoseinpour&theme=light" alt="samanhoseinpour"/></p>
