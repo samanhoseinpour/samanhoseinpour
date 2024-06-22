@@ -1,10 +1,10 @@
 <h1 align="center">Saman Hoseinpour</h1>
-<h3 align="center">A passionate Fintech Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
 
-- 🔭 Presently **Self Employed**
+- 🔭 Presently Working For Perseus Creative Studio
 
 - 🌱 Currently focused on **Blockchain**
 
