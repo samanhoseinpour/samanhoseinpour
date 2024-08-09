@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanhoseinpour&label=Profile%20views&color=0e75b6&style=flat" alt="samanhoseinpour
 " /> </p>
 
-- 🔭 Presently Working For Perseus Creative Studio
+- 🔭 Presently Working For **Perseus Creative Studio**
 
 - 🌱 Currently focused on **Blockchain**
 
