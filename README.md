@@ -6,8 +6,6 @@
 
 - 🔭 Presently Working For **Perseus Creative Studio**
 
-- 🌱 Currently focused on **Blockchain**
-
 - 💬 Feel free to inquire about **React, NextJs, TypeScript**
 
 - 📫 Contact me at **samangithoseinpour@gmail.com**
