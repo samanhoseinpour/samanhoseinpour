@@ -32,4 +32,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/samanhoseinpour)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samanhoseinpour&theme=blueberry)](https://git.io/streak-stats)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=samanhoseinpour&theme=blueberry"
+    alt="GitHub Streak"
+  />
+</p>
