@@ -21,20 +21,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saman-hoseinpour-202280221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 </p>
-<br/>
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)       
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&show_icons=true&theme=blueberry&hide_border=true&line_height=24)](https://github.com/samanhoseinpour)
+<br/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/samanhoseinpour)
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=samanhoseinpour&theme=blueberry"
-    alt="GitHub Streak"
-  />
-</p>
