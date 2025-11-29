@@ -28,8 +28,9 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 ![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)       
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=samanhoseinpour&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/samanhoseinpour)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/samanhoseinpour)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanhoseinpour&theme=blueberry" alt="samanhoseinpour"/></p>
