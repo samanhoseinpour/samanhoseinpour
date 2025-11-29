@@ -19,11 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://dev.to/samanhoseinpour" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samanhoseinpour" height="30" width="40" /></a>
-<a href="https://twitter.com/0xsaman1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saman-hoseinpour-202280221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samanhoseinpour" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCfycf8Pf9VOCyfMhHGW3jkA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samanhoseinpour" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0xsaman/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 </p>
 <br/>
 
