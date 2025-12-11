@@ -22,5 +22,3 @@
 <a href="https://www.linkedin.com/in/saman-hoseinpour-202280221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samanhoseinpour" height="30" width="40" /></a>
 </p>
 <br/>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhoseinpour&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/samanhoseinpour)
