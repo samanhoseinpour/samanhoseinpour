@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=linux,git,go,js,ts,nodejs,nestjs,react,nextjs,tailwind,mongodb,postgresql,mysql)
+[![SkillIcons](https://skillicons.dev/icons?i=linux,git,go,js,ts,nodejs,expressjs,nestjs,react,nextjs,tailwind,mongodb,postgresql,mysql)
 ](https://skillicons.dev)
 <br/>
 
